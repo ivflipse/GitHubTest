@@ -3,7 +3,7 @@
 - Create an EMPTY repository (no readme!)
 - Clone it to your computer
 - Create a `README.md` file with some text // tip: use Markdown for formatting
-- Commit and push
+- Stage, commit and push your changes
 
 # Assignment 002
 - Fork [https://github.com/hansvana/GitHubTest](https://github.com/hansvana/GitHubTest)
