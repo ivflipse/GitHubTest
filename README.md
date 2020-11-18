@@ -1,4 +1,4 @@
-# 1920GitHubTest
+# GitHubTest
 A quick assignment to learn about branching and merging
 
 ## Steps 
