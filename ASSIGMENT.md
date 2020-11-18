@@ -2,7 +2,7 @@
 - Make a GitHub account
 - Create an EMPTY repository (no readme!)
 - Clone it to your computer
-- Create a `README.md` file with some text // tip: use Markdown for formatting
+- Create a `README.md` file with some text [tip: use Markdown for formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Stage, commit and push your changes
 
 # Assignment 002
